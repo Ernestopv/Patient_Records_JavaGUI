@@ -1,0 +1,11 @@
+*******************  Hospital Rodriguez  *****************
+           Invoice                  id:1    
+-----date:12/01/2016                     Time:10:50--
+Patient id:2        Name:Magdalena  Rios
+                         Doctor:Jhony idD:4
+  Description: General Doctors Visit Total: £50
+     Prescription=x34
+Status:paid
+***********************************************************
+********************thank you for your visit **************
+***********************************************************
